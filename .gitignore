@@ -1,0 +1,14 @@
+node_modules/
+build/
+docs/
+.env.example
+.env.local
+.env
+
+server/.env
+server/.env.example
+
+.venv/
+__pycache__/
+*.pyc
+
